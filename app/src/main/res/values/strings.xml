@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Yarr World</string>
-    <string name="welcome_text">Welcome to CS 273 - Mobile Application Development</string>
-    <string name="button_text">Shiver Me Timbers!</string>
-    <string name="toast_text">Yarr World</string>
-</resources>
