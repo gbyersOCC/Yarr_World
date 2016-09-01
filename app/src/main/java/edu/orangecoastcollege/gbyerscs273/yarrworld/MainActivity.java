@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         //inflating (opening the layout called activity main xml code)
         setContentView(R.layout.activity_main);
         speakButton = (Button) findViewById(R.id.speakButton);
-
+//
 
     }
 }
